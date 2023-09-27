@@ -34,6 +34,12 @@ Você pode personalizar esta aplicação de várias maneiras:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar esta aplicação.
 
 
+
+## OBS: QR CODE
+
+![image](https://github.com/charlestiti/Dados/assets/146219623/8e786e26-ad34-41ef-b073-d684b91316d4)
+
+
 *QRCode Gerado*
 
 
