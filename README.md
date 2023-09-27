@@ -35,5 +35,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 
 *QRCode Gerado*
-![image](https://github.com/leonardokzkz/HealthGuardian/assets/56534691/03d63430-b02f-4e67-b7fc-a522cd72d631)
+
 
